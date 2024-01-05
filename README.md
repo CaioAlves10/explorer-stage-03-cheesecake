@@ -9,12 +9,12 @@ Website que apresenta receita de **cheesecake de frutas**.
 
 ## 🤝 Como Contribuir
 
+1. Clone o repositório:
 ```bash
-  # Clone o repositório
   $ git clone https://github.com/CaioAlves10/explore-stage-03-cheesecake.git
 ```
 
+2. Entre no diretório:
 ```bash
-  # Entre no diretório
   cd explore-stage-03-cheesecake
 ```
