@@ -4,7 +4,7 @@ Website que apresenta receita de **cheesecake de frutas**.
 
 ## 🛠 Linguagens
 
-- html
+- HTML
 - CSS
 
 ## 🤝 Como Contribuir
