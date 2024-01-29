@@ -21,7 +21,6 @@ body {
 }
 
 h1 {
-  /* clamp(min, ideal, alto) */
   font-size: clamp(2.8rem, 2vw + 1rem, 3.5rem);
 }
 
