@@ -102,8 +102,6 @@ ul {
   main {
     flex-direction: row;
     gap: 6rem;
-
-    margin-top: 2rem;
   }
 
   main > div {
